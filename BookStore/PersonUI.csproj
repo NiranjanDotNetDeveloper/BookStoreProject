@@ -7,11 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
     <Folder Include="MiddileWare\" />
     <Folder Include="Filters\" />
     <Folder Include="ViewComponents\" />
-    <Folder Include="wwwroot\" />
   </ItemGroup>
 
 </Project>

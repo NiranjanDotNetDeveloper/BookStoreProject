@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Login";
+    Layout = "_Layout1";
+}
+
+<section class="caret">
+    <div>
+        Contacts <i class="fa-solid fa-caret-right"></i> Login
+    </div>
+</section>
+<section class="form">
+    <p>Not yet Registered? <a asp-action="Register" asp-controller="Account">Register</a></p>
+    <h1 class="MT-2">Login</h1>
+    <form>
+        <div class="form-style MT-2">
+            <div class="label ML-1">
+                <label for="email">Email</label><br /><br />
+                <label for="password">Password</label><br /><br />
+            </div>
+            <div class="input ML-2">
+                <input class="width" type="email" id="email" name="email"><br /><br />
+                <input class="width" type="password" id="password" name="password"><br /><br />
+            </div>
+
+        </div>
+        <button type="submit" class="btn MT-2 ML-15">Login</button>
+    </form>
+</section>

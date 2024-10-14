@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore", "BookStore\BookStore.csproj", "{11A53F7A-FA04-44F6-A69E-55DE8AF62CCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonUI", "BookStore\PersonUI.csproj", "{11A53F7A-FA04-44F6-A69E-55DE8AF62CCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreTests", "BookStoreTests\BookStoreTests.csproj", "{FB82175C-488E-49B7-8DFB-67C71B41F2C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonTests", "BookStoreTests\PersonTests.csproj", "{FB82175C-488E-49B7-8DFB-67C71B41F2C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{37DDA5A1-E720-4AE6-BF91-E720351B781C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{37DDA5A1-E720-4AE6-BF91-E720351B781C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceContracts", "ServiceContracts\ServiceContracts.csproj", "{AA708CD8-33A4-4C3A-82D2-F21B476DE817}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceContracts", "ServiceContracts\ServiceContracts.csproj", "{AA708CD8-33A4-4C3A-82D2-F21B476DE817}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RespositoryInterfaces", "RespositoryInterfaces\RespositoryInterfaces.csproj", "{F22FDCF5-7775-44F0-8D19-6F582A28DAB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RespositoryInterfaces", "RespositoryInterfaces\RespositoryInterfaces.csproj", "{F22FDCF5-7775-44F0-8D19-6F582A28DAB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryImpl", "RepositoryImpl\RepositoryImpl.csproj", "{19C37936-DAAB-4A6D-9459-1407C9F11507}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositoryImpl", "RepositoryImpl\RepositoryImpl.csproj", "{19C37936-DAAB-4A6D-9459-1407C9F11507}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{F5388F93-49D5-4220-A2D9-BAAB872D0696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{F5388F93-49D5-4220-A2D9-BAAB872D0696}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
